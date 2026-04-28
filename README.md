@@ -7,10 +7,7 @@ This project represents my journey as an AI Engineer and AI/ML enthusiast.
 ---
 
 ## 🌐 Live Demo
-👉  https://komal1234469.github.io/Portfolio-Website/
-
-
-
+👉  https://komal1234469.github.io/Portfolio-Website
 ---
 
 ## 📸 Preview
