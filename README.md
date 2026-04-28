@@ -7,7 +7,7 @@ This project represents my journey as an AI Engineer and AI/ML enthusiast.
 ---
 
 ## 🌐 Live Demo
-👉 https://yourusername.github.io/portfolio/
+👉  https://komal1234469.github.io/Portfolio-Website/
 
 > Replace `yourusername` with your actual GitHub username
 
